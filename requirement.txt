@@ -1,0 +1,9 @@
+streamlit as st
+ yfinance as yf
+ pandas as pd
+ plotly.graph_objects as go
+from datetime import date, timedelta
+ plotly.express as px
+ requests
+from bs4 import BeautifulSoup
+ json
